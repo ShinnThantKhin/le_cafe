@@ -1,0 +1,106 @@
+form#payment{
+    background:#fdff899b;
+    border-radius:5px;
+    padding:20px;
+    width:600px;
+    margin:50px auto;
+  }
+  
+  form#payment fieldset{
+    border:0px;
+    margin-bottom:20px;
+  }
+  
+  form#payment fieldset:last-of-type{
+    margin-bottom:0px;
+  }
+  
+  form#payment legend{
+    color: #575151;
+    font-size:30px;
+    font-weight:bold;
+    padding-bottom:10px;
+    text-shadow:0px 1px 1px #575151;
+  }
+  
+  form#payment fieldset fieldset legend{
+    color:#111;
+    font-size:30px;
+    font-weight:normal;
+    padding-bottom:0px;
+  }
+  
+  form#payment ol li{
+    background: #edb29080;
+    border:2px solid #edb290;
+    border-radius:5px;
+    line-height:30px;
+    list-style:none;
+    padding:5px 10px;
+    margin-bottom:2px;
+  }
+  
+  form#payment ol ol li{
+    background:none;
+    border:none;
+    float:left;
+  }
+  
+  form#payment label{
+    float:left;
+    font-size:30px;
+    width:110px;
+  }
+  
+  form#payment fieldset fieldset label{
+    background:none no-repeat left 50%;
+    line-height:20px;
+    padding:0px 0px 0px 30px;
+    width:auto;
+  }
+  
+  
+  form#payment fieldset fieldset label:hover{
+    cursor:pointer;
+  }
+  
+  form#payment input:not([type='radio']),
+    form#payment textarea{
+      background:#FFF;
+      border:none;
+      border-radius:3px;
+      font:italic 20px Georgia, "Times New Roman", Times, serif;
+      padding:5px;
+      width:220px;
+  }
+  
+  form#payment input:not([type='submit']):focus,
+  form#payment textarea:focus {
+    background: #eaeaea;
+  }
+  
+  form#payment input[type='radio'] {
+    float: left;
+    margin-right: 5px;
+  }
+  
+  form#payment button {
+    background: #ff9f68;
+    border:none;
+    border-radius: 20px;
+    color: #000;
+    display: block;
+    font: 20px Georgia, "Times New Roman", Times, serif;
+    letter-spacing: 1px;
+    margin: auto;
+    padding: 7px 25px;
+    text-shadow: 0 1px 1px #000000;
+  }
+
+  body{
+    height: 100%;
+    background-color: #fbf1df;
+  }
+  
+  
+  

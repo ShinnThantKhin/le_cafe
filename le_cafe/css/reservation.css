@@ -1,0 +1,73 @@
+.reserved{
+    text-align: center;
+    margin: 50px auto;
+
+}
+
+.reserved h2{
+    font-size: 50px;
+}
+
+.reserved h3{
+    font-size: 25px;
+    line-height: 35px;
+}
+
+.reserved h4{
+    font-size: 40px;
+    color: rgb(227, 64, 118);
+    margin-right: auto;
+    padding-right: auto;
+    font-weight: bold;
+}
+
+.dropdown{
+    margin: auto 10px 30px;
+    width: 200px;
+    height: 50px;
+    border-radius: 3px;
+    background-color: antiquewhite;
+    font-size: 25px;
+    border: 2px solid rgba(112, 128, 144, 0.681);
+}
+
+.calender{
+    margin: auto 10px 30px;
+    width: 200px;
+    height: 50px;
+    border-radius: 3px;
+    background-color: antiquewhite;
+    font-size: 23px;
+    border: 2px solid rgba(112, 128, 144, 0.681);
+}
+
+.fill_in{
+        margin: auto 10px 30px;
+        width: 300px;
+        height: 50px;
+        border-radius: 3px;
+        background-color: antiquewhite;
+        font-size: 23px;
+        border: 2px solid grey
+}
+
+.btn{
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: rgb(227, 64, 118);
+    color: white;
+    font-size: 23px;
+    border: 2px solid rgb(227, 64, 118);
+
+}
+
+.btn:hover{
+    color: brown;
+    scale: 1.2;
+}
+
+.img{
+    width: 100%;
+    height: auto;
+}

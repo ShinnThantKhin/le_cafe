@@ -1,0 +1,88 @@
+.card1{
+    border: 2px solid rgb(49, 43, 43);
+    display: inline-block;
+    width: 300px;
+    height: 500px;
+    margin: 30px 40px;
+}
+
+h4{
+    margin: auto 20px;
+    padding: 0;
+    font-size: 20px;
+}
+
+.menu-img1{
+    margin: auto 20px;
+    width: 150px;
+    height: 150px;
+    padding: 20px 20px;
+}
+
+.btn{
+    margin-top:5px;
+    background-color: #333;
+    color: wheat;
+    border-radius: 5px;
+    border: 1px solid #333;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.burger1{
+    text-align: center;
+    margin: 20px;
+    display: block;
+}
+
+.burger1 h1{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 29px;
+    padding-top: 50px;
+}
+
+.form-control1{
+    width: 30px;
+    font-size: 20px;
+}
+
+.btn:hover{
+    scale: 1.2;
+}
+
+.details{
+    height: 400px;
+    width: 90%;
+    margin: 30px 0px 20px 20px;
+}
+
+.details h3{
+    font-size: 29px;
+    text-align: center;
+}
+
+body{
+    height: 100%;
+}
+
+.table{
+    text-align: center;
+    margin: auto 60px 20px;
+}
+
+.table-border th, td, tr{
+    border: 2px solid #333;
+    font-size: 20px;
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+}
+
+.btn:hover{
+    color: rgb(233, 118, 118);
+    scale: 1.1;
+}
